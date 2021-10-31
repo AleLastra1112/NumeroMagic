@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-weight: lighter;
+}
+
+.main {
+  background-image: url(https://images.unsplash.com/photo-1617527019968-052733f9cfe8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=80);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.list-rules {
+  text-align: justify;
+  margin: 0px 30px;
+}
+
+.header {
+  font-weight: normal;
+}
+.sheet{
+  margin: auto;
+  width: 75%;
+  height:max-content;
+  padding: 20px;
+}
